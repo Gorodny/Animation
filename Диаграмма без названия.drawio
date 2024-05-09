@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T20:33:07.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="b0PmuOtsqXmz3Vcq_aKm" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-09T20:34:40.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yIDuPCZ-4_ZoOfJMYY_n" version="24.3.1" type="github" pages="4">
   <diagram name="Страница — 1" id="hu_f6FUVKI9qjOCL0LCb">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,14 +130,23 @@
         <mxCell id="3czpvPu-cFVEcWrkcCI9-6" value="Їжа _&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;Калорії _" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="3czpvPu-cFVEcWrkcCI9-3">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3czpvPu-cFVEcWrkcCI9-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.barChart;strokeColor=none;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
-          <mxGeometry x="284" y="340" width="160" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="V-80zOrlXMdEkv2D7xZ8-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Кнопка додання нового продукта&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="284" y="640" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V-80zOrlXMdEkv2D7xZ8-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Кнопка додання нового прийому їжі&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="640" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80zOrlXMdEkv2D7xZ8-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="344" y="390" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80zOrlXMdEkv2D7xZ8-5" value="Відсоток білків" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80zOrlXMdEkv2D7xZ8-6" value="Відсоток жирів" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V-80zOrlXMdEkv2D7xZ8-7" value="Відсоток углеводів" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="424" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
