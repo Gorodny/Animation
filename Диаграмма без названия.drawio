@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T18:44:42.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RZ34hieauFgMPmYA0CCm" version="24.3.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-10T18:45:46.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cNCm103nuoKDJ7npXrfs" version="24.3.1" type="github" pages="6">
   <diagram name="Страница — 1" id="hu_f6FUVKI9qjOCL0LCb">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,49 +40,55 @@
         <mxCell id="lEj4rzb78iXM098NPK44-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.pieChart;strokeColor=#008cff;parts=10,20,35;partColors=#e0e0e0,#d0d0d0,#c0c0c0,#b0b0b0,#a0a0a0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="329.37" y="550" width="140" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="kD1p7tyxYUEdSdwb2P0I-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=20;handleStyle=circle;fillColor2=#ddeeff;direction=north;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="30" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ioexZ-S9GQfeqr2VIhHC" name="Страница — 2">
-    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="114.7" y="295.93" width="569.37" height="291.25" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Меню навігації&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Меню навігації&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="314.38" y="80" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="270" y="660" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="340" y="660" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="410" y="660" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="480" y="660" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="374.38" y="590" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-8" value="Головна" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-8" value="Головна" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="376.57" y="605" width="45.62" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-9" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;фізична активність&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-9" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;фізична активність&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="670" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-10" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;харчування&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-10" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;харчування&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="670" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Сон&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Сон&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DfXaMpxt_-K0LzJCalvh-12" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;емоційний стан&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DfXaMpxt_-K0LzJCalvh-12" value="&lt;span style=&quot;color: rgb(13, 13, 13); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;емоційний стан&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkm86F1CFt99m8_F7Xo-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.horSlider;strokeColor=#999999;sliderStyle=basic;sliderPos=20;handleStyle=circle;fillColor2=#ddeeff;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="30" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
