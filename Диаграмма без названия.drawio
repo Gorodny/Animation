@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T14:48:28.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="J6ylMrUEBLwiz48XYaqN" version="24.4.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-21T14:50:19.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jhVBLnHkPlpEPFpR6yn3" version="24.4.4" type="github" pages="9">
   <diagram name="Страница — 1" id="hu_f6FUVKI9qjOCL0LCb">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -927,7 +927,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZzpBOwbTgQnD1ceE7oWt" name="Страница — 9">
-    <mxGraphModel dx="2261" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="2272" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -992,10 +992,10 @@
           <mxGeometry x="270" y="240" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_7mFhftVuCz497uB5vxj-4" value="&lt;p&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Goal&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+addGoal()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+updateGoal()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+deleteGoal()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+getGoalsByUser()&lt;/span&gt;&lt;/div&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="730" width="160" height="130" as="geometry" />
+          <mxGeometry x="-430" y="700" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_7mFhftVuCz497uB5vxj-5" value="&lt;p&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Feedback&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+addFeedback()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+updateFeedback()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+deleteFeedback()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+getFeedbacksByUser()&lt;/span&gt;&lt;/div&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-360" width="160" height="130" as="geometry" />
+          <mxGeometry x="230" y="-150" width="160" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_7mFhftVuCz497uB5vxj-6" value="&lt;p&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;b&gt;Activity&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+addActivity()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+updateActivity()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+deleteActivity()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+getActivitiesByUser()&lt;/span&gt;&lt;/div&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
           <mxGeometry x="70" y="740" width="160" height="130" as="geometry" />
@@ -1075,7 +1075,7 @@
             <mxPoint x="200" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7mFhftVuCz497uB5vxj-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7mFhftVuCz497uB5vxj-5" target="m2kHDtYVplHfl0hqxORp-11">
+        <mxCell id="_7mFhftVuCz497uB5vxj-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7mFhftVuCz497uB5vxj-5" target="m2kHDtYVplHfl0hqxORp-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="105" as="sourcePoint" />
             <mxPoint x="198" y="101" as="targetPoint" />
