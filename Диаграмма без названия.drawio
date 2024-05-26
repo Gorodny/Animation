@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-26T15:19:01.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KqxjBdI_PedpCikgqTup" version="24.4.8" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-05-26T15:23:46.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1G88VgJUaQ3j0tdXygkx" version="24.4.8" type="github" pages="10">
   <diagram name="Страница — 1" id="hu_f6FUVKI9qjOCL0LCb">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1110,6 +1110,45 @@
         <mxCell id="1" parent="0" />
         <mxCell id="rCk5uB5HcKsck-IXkg7P-13" value="Користувач" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="170" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-14" value="Відкрити додаток" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-15" value="Ввести дані для входу&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D0%92%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B8%20%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA%22%20style%3D%22rounded%3D1%3BarcSize%3D10%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%22240%22%20width%3D%22110%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="140" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-16" value="Вибрати &quot;Додати тренування&quot;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-17" value="Ввести дані тренування" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="310" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-18" value="Натиснути &quot;Зберегти&quot;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-19" value="Відобразити підтверждення" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-13">
+          <mxGeometry x="80" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-20" value="Baked" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-21" value="Перевірити авторизацію" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-20">
+          <mxGeometry x="80" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-23" value="Авторизувати користувача" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-20">
+          <mxGeometry x="80" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-25" value="Перевірити введені дані" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-20">
+          <mxGeometry x="80" y="390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-26" value="Зберегти тренування" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-20">
+          <mxGeometry x="80" y="480" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-27" value="База даних" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="170" width="280" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-31" value="Зберегти дані тренування" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rCk5uB5HcKsck-IXkg7P-27">
+          <mxGeometry x="85" y="355" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
