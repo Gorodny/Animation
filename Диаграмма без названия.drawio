@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T14:50:19.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jhVBLnHkPlpEPFpR6yn3" version="24.4.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-26T15:19:01.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KqxjBdI_PedpCikgqTup" version="24.4.8" type="github" pages="10">
   <diagram name="Страница — 1" id="hu_f6FUVKI9qjOCL0LCb">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,14 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="e_SSHseLmJ5yKlnfFcxB" name="Страница — 3" />
+  <diagram id="e_SSHseLmJ5yKlnfFcxB" name="Страница — 3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="nm0fhLwLkvkeQzncLIcZ" name="Страница — 4">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1092,6 +1099,17 @@
             <mxPoint x="-180" y="515" as="sourcePoint" />
             <mxPoint x="-153" y="498" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Uv57bB2bGK-boPZa8rb6" name="Страница — 10">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rCk5uB5HcKsck-IXkg7P-13" value="Користувач" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="280" height="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
