@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T12:56:38.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RHQpnEc0XXIca1rOiTRn" version="24.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T13:06:29.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="p0wWSG7-6xwaCxVv6HGI" version="24.4.8" type="github" pages="2">
   <diagram name="Страница — 1" id="8t6PvGh4A0OR3wwPPd6I">
     <mxGraphModel dx="2501" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n-nYsRfk-Evqz3QfUwDe" name="Страница — 2">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2501" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,6 +397,36 @@
         </mxCell>
         <mxCell id="H34Tpq5xkFpvgu6sgKwL-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Процес реєстрації&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1361.25" y="140" width="167.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-42" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#F0FDFF;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="200" width="270" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/free-ui-set/200/line_3-05-128.png" vertex="1" parent="1">
+          <mxGeometry x="-221.5" y="198.5" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Додати рейс&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241.7" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Видалити рейс&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241.7" y="565" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Редагувати рейс&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-241.7" y="610" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-47" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="261" width="204" height="219" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Список рейсів&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H34Tpq5xkFpvgu6sgKwL-47">
+          <mxGeometry x="33" y="99" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-49" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.edit;" vertex="1" parent="1">
+          <mxGeometry x="-265.84999999999997" y="610.0000000000001" width="19.4" height="19.4" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-50" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.remove;fillColor=#0080f0;strokeColor=#ffffff;sketch=0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="565" width="28.3" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-51" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.add;fillColor=#00dd00;strokeColor=#ffffff;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-265.84999999999997" y="524" width="20" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
