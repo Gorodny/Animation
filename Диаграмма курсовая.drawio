@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T12:28:50.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UV-IG34svJ9nCPW_WooG" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T12:47:47.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="M_GN32EAQPL2nt1yBDEe" version="24.4.8" type="github" pages="2">
   <diagram name="Страница — 1" id="8t6PvGh4A0OR3wwPPd6I">
     <mxGraphModel dx="2501" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,6 +296,38 @@
           <mxGeometry x="30" width="130" height="40" as="geometry">
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n-nYsRfk-Evqz3QfUwDe" name="Страница — 2">
+    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-1" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#F0FDFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="270" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="460" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Пошук маршрутів&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="336" y="405" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bell;" vertex="1" parent="1">
+          <mxGeometry x="330" y="223.45" width="24" height="23.099999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-8" value="Забронювати поїздку" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H34Tpq5xkFpvgu6sgKwL-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=4;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
